@@ -1,2 +1,7 @@
 # hello-world
-a place where I store ideas, resources
+
+Hi!
+
+I`m Nastya
+Now I`m reseach fellow at scientific institute for synthetic rubber.
+But I want to change my profession
